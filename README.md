@@ -3,7 +3,7 @@
 <h3>Step 1: Fork the Repository</h3>
 <p>Start by forking the repository and making your forked repository private to protect your OpenAI and Telegram Keys.</p>
 <h3>Step 2: Replace the Keys</h3>
-<p>In the forked repository, edit the harshitethic.py file and replace the keys with the ones you had copied.</p>
+<p>In the forked repository, edit the sirddji.py file and replace the keys with the ones you had copied.</p>
 <h3>Step 3: Create a Heroku Account</h3>
 <p>Register or login into your Heroku account.</p>
 <h3>Step 4: Create a New Application</h3>
@@ -17,7 +17,7 @@
 <p>Follow these steps and deploy your own ChatGPT Telegram Bot today!</p>
 
 <div align="center">
-  <a href="https://www.instagram.com/harshitethic/">
-    <img src="https://img.shields.io/badge/Follow%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
+  <a href="https://www.instagram.com/sirddji/">
+    <img src="https://img.shields.io/badge/Follow%20%40sirddji-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
   </a>
 </div>
